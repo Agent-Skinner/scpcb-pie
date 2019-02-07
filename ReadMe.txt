@@ -2,7 +2,7 @@
 
 ***********************************************************************************
 
-**************************    SCP - CONTAINMENT BREACH   **************************
+********************    SCP - CONTAINMENT BREACH - PIE MOD   **********************
 
 ***********************************************************************************
 
@@ -10,16 +10,16 @@
 							
 
 
-The game is based on the works of the SCP Foundation community (http://www.scp-wiki.net/).
-See "Credits.txt" for further details.
+The game is based on the works of the SCP Foundation community (http://www.scp-wiki.net/),
+and the lore of the Frye family (https://www.youtube.com/user/VenturianTale). See "CreditsOriginal.txt" 
+and "CreditsMod.txt" for further details.
 
 
 This game is licensed under Creative Commons Attribution-ShareAlike 3.0 License.
+Visit "http://creativecommons.org/licenses/by-sa/3.0/" for more information.
 
-http://creativecommons.org/licenses/by-sa/3.0/
 
-
-The source code of the game is available on GitHub: https://github.com/Regalis11/scpcb
+The source code of the game is available on GitHub: https://github.com/Agent-Skinner/scpcb-pie
 
 
 
@@ -37,7 +37,8 @@ The source code of the game is available on GitHub: https://github.com/Regalis11
 	- Run the game as administrator
 	- Make sure your graphics card drivers are up-to-date
 	- Try different resolutions and running the game in full screen
-	- Try running the game in different compatibility modes 
+	- Try running the game in different compatibility modes
+	- Don't repeatedly interact with the same object, lever, button, or keycard reader
 
 
 **** DEFAULT CONTROLS ***********************************
@@ -48,7 +49,7 @@ The source code of the game is available on GitHub: https://github.com/Regalis11
 	Left Control			-	Crouch.
 	Tab				-	Toggle inventory.
 	F5				-	Save.
-	F3				-	[DATA EXPUNGED]
+	F3				-	[DATA EXPUNGED] 
 
 	Pick up items and use levers/buttons by left-clicking on them.
 
