@@ -1,11 +1,12 @@
-;SCP - Containment Breach
+;SCP - Containment Breach - PIE Mod
 
-;    The game is based on the works of the SCP Foundation community (http://www.scp-wiki.net/).
+;    The game is based on SCP - Containment Breach (http://www.scpcbgame.com/) and the VenturianTale 
+;    lore (https://www.youtube.com/user/VenturianTale).
 
 ;    The source code is licensed under Creative Commons Attribution-ShareAlike 3.0 License.
 ;    http://creativecommons.org/licenses/by-sa/3.0/
 
-;    See Credits.txt for a list of contributors
+;    See CreditsMod.txt for a list of contributors
 
 Local InitErrorStr$ = ""
 ;If FileSize("bb_fmod.dll")=0 Then InitErrorStr=InitErrorStr+ "bb_fmod.dll"+Chr(13)+Chr(10)
