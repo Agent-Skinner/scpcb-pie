@@ -25,7 +25,7 @@ The source code of the game is available on GitHub: https://github.com/Agent-Ski
 
 **** HOW TO RUN IT **************************************
 
-	Run SCP - Containment Breach.exe in the game folder. 
+	Run SCP - Containment Breach - PIE Mod.exe in the game folder. 
 	Select which resolution you want to use and click the LAUNCH-button.
 
 	SCP-CB uses an engine called Blitz3D, and since it's a fairly outdated one,
@@ -40,6 +40,7 @@ The source code of the game is available on GitHub: https://github.com/Agent-Ski
 	- Try running the game in different compatibility modes
 	- Don't repeatedly interact with the same object, lever, button, or keycard reader
 
+	If you are still running into problems, please report it to us on GitHub (link above).
 
 **** DEFAULT CONTROLS ***********************************
 
