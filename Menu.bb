@@ -89,9 +89,9 @@ Function UpdateMainMenu()
 				Case 0, 2, 3
 					MenuStr = "DON'T BLINK"
 				Case 4, 5
-					MenuStr = "Secure. Contain. Protect."
+					MenuStr = "Paranormal. Investigators. Extrordinare."
 				Case 6, 7, 8
-					MenuStr = "You want happy endings? Fuck you."
+					MenuStr = "You want happy endings? Frick you."
 				Case 9, 10, 11
 					MenuStr = "Sometimes we would have had time to scream."
 				Case 12, 19
@@ -103,7 +103,7 @@ Function UpdateMainMenu()
 				Case 15
 					MenuStr = "Stone does not care"
 				Case 16
-					MenuStr = "9341"
+					MenuStr = "Papa"
 				Case 17
 					MenuStr = "It controls the doors"
 				Case 18
@@ -154,9 +154,9 @@ Function UpdateMainMenu()
 								Case 2
 									RandomSeed = "NO"
 								Case 3
-									RandomSeed = "d9341"
+									RandomSeed = "Papa"
 								Case 4
-									RandomSeed = "5CP_I73"
+									RandomSeed = "Maxwell"
 								Case 5
 									RandomSeed = "DONTBLINK"
 								Case 6
@@ -168,7 +168,7 @@ Function UpdateMainMenu()
 								Case 9
 									RandomSeed = "rustledjim"
 								Case 10
-									RandomSeed = "larry"
+									RandomSeed = "CASKET"
 								Case 11
 									RandomSeed = "JORGE"
 								Case 12
@@ -1509,7 +1509,7 @@ Function DrawLoading(percent%, shortloading=False)
 						Case 7
 							SelectedLoadingScreen\txt[0] = "???____??_???__????n?"
 						Case 8, 9
-							SelectedLoadingScreen\txt[0] = "Jorge has been expecting you."
+							SelectedLoadingScreen\txt[0] = "Jimmy has been expecting you."
 						Case 10
 							SelectedLoadingScreen\txt[0] = "???????????"
 						Case 11
