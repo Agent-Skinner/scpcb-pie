@@ -7,6 +7,12 @@ Voice Acting -
 Pigeon 
 
 Music - 
+Note: These individuals had no knowledge of their music being used,
+and therfore didn't knowingly help, but it felt appropriate to 
+credit them anyway:
+
+Jordan Frye (Venturian)
+Isaac Frye (HomelessGoomba)
 
 Programming - 
 Ivan Pratt (Rys)
