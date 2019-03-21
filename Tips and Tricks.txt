@@ -18,6 +18,7 @@ him
 - Get a keycard at all costs
 - Get a gas mask, S-Nav, medkit, and night vision goggles
 - Get a clipboard to hold documents and a wallet to hold keycards and quarters
+- Get the Jade Ring and the Blue Key
 
 After you obtain a Paid Intern/Level 2 keycard, you will be able to enter 
 914's chambers. From here you will be able to upgrade your items with the
@@ -33,11 +34,31 @@ Once you have a Full Member keycard, you can leave the Light Containment Zone.
 First, however, you will need to find the Surveillence room and disable the 
 Light Containment Zone Lockdown. This will allow you to transverse the 
 checkpoint(s) to the Heavy Containment Zone. Make sure you are done with the 
-Light Containment Zone (get all items you want) and then leave. Once you enter
-the Heavy Containment Zone, you will need to find the macaroni containment unit.
+Light Containment Zone (get all items you want) and then leave. 
 
-Once you find this room, you will need to close the macaroni valve while keeping
-from inhaling the macaroni fumes. This will allow you to exit the Heavy 
-Containment Zone. 
+Once you enter the Heavy Containment Zone, you will need to find the macaroni 
+containment unit. Once you find this room, you will need to close the macaroni 
+valve while keeping from inhaling the macaroni fumes. This will allow you to 
+exit the Heavy Containment Zone, but you will need a Investigator 
+Extraordinare/Level 5 keycard first. 
+
+Before you leave Heavy Containment, you will need to decide if you want to recontain
+Jimmy Casket. This decision will affect your ending if you decide to go for a Gate A 
+ending. If you do, enter his room and grab the keycard, then find the paper in there 
+with recontainment instructions. 
+
+Once you enter the Entrance Zone, a PIE team will enter the facitily and divide into
+groups of three. Should they come into contact with Maxwell, they will recontain him,
+so it might be a good idea to have them chase you to him. This will not only get rid
+of Maxwell for the rest of the game, but it will also get 3 PIE members far away from
+you. 
+
+You will need to begin searching for the Electrical Center. When you find this room, 
+make sure you turn the lights back on and disable the "Remote Door Controls". This 
+will stop doors from closing in your face and allow you to negotiate with 079. Once 
+you turn the Remote Door Controls back on, you can leave. From here, you can achieve
+4 endings, 2 for each gate. Your Gate A endings are dependant on whether you 
+recontain Jimmy Casket, while your Gate B endings are dependant on whether you have
+disabled the Alpha Warheads prior. 
 
 
